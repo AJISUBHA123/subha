@@ -4,7 +4,7 @@ class Greater
  public static void main(String args[])
  {
     int num;
-    Scanner sc=new Scanner(System.in);
+    Scanner num=new Scanner(System.in);
     System.out.println("enter any integer number:");
     num=sc.nextInt();
     if(num>0)
